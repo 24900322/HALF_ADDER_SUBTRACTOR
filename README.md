@@ -34,6 +34,7 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+![ex3 table](https://github.com/user-attachments/assets/cdb754bc-d2fe-4ee7-8b16-ca4ccda0b515)
 
 **Procedure**
 
@@ -68,12 +69,15 @@ assign D = a ^ b;
 endmodule
 
 **RTL Schematic**
+
 ![ex3 logic](https://github.com/user-attachments/assets/b2c7497a-01c9-497f-9b46-24900d5dba11)
 
 **Output/TIMING Waveform**
+
 ![ex3 wave 1](https://github.com/user-attachments/assets/c6863cd2-080f-47a8-b421-edde3aa9dada)
 ![ex 3wave 2](https://github.com/user-attachments/assets/5af9ccff-f48b-47b5-b7ae-43c3e570ef45)
 
 
 
 **Result:**
+          The program of half_adder_subtractor is verified successfully using the software quartus prime.
