@@ -34,6 +34,7 @@ Borrow = A’B
 Figure -02 HALF Subtractor
 
 **Truthtable**
+
 ![ex3 table](https://github.com/user-attachments/assets/cdb754bc-d2fe-4ee7-8b16-ca4ccda0b515)
 
 **Procedure**
@@ -80,4 +81,5 @@ endmodule
 
 
 **Result:**
-          The program of half_adder_subtractor is verified successfully using the software quartus prime.
+         
+         The program of half_adder_subtractor is verified successfully using the software quartus prime.
